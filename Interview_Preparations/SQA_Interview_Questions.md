@@ -93,3 +93,6 @@ When choosing an automation tool, consider your project’s requirements, tool c
 Manual Testing involves human testers executing test cases without tools, focusing on user experience and exploratory testing. It is flexible, allows for immediate feedback, and is suitable for small projects or early development stages.
 Automation Testing uses tools and scripts to execute test cases, enhancing efficiency, accuracy, and coverage. It is ideal for repetitive tasks, large projects, and regression testing, but requires initial setup and maintenance of scripts.
 
+## What is software artifact?
+
+A software artifact is any tangible byproduct produced during the software development process, including source code, documentation, design diagrams, test cases, executable files, and configuration files; essentially, it encompasses anything created, modified, or used to build, document, or maintain software.
