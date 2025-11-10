@@ -2,6 +2,15 @@
 
 Welcome to your comprehensive guide to mastering Software Quality Assurance! This repository provides a structured, step-by-step path from fundamentals to advanced SQA topics.
 
+## 🎓 Learning Topics
+ 
+- Postman
+- Newman
+- Burp Suite
+- JMeter
+- MY SQL
+- Git & GitHub
+
 ---
 
 ## 🎓 Learning Resources
